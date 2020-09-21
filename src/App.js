@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import EventManager from "./EventManager";
-import EventDetails from "./EventDetails";
-import About from "./About";
+import EventManager from "./Components/EventManager";
+import EventDetails from "./Components/EventDetails";
+import About from "./Components/About";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 import { makeStyles } from "@material-ui/core/styles";

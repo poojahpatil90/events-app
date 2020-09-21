@@ -33,7 +33,7 @@ function About() {
           </a>
           <br />
           <strong>Github code Link:</strong> &nbsp;
-          <a href="https://pooja-patil-events-app.netlify.app/" target="blank">
+          <a href="https://github.com/poojahpatil90/events-app/" target="blank">
             App Code
           </a>
           <br />
