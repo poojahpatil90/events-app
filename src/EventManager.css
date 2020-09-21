@@ -1,0 +1,11 @@
+.eventManager {
+  margin: 30px;
+}
+
+.eventManager__events {
+  display: flex;
+}
+
+.eventManager__category {
+  margin-bottom: 30px;
+}

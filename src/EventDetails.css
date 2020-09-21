@@ -1,0 +1,35 @@
+.footerStyle {
+  padding: 20px 10px;
+}
+
+.margin20 {
+  margin: 20px;
+}
+
+.marginTop20 {
+  margin-top: 20px !important;
+}
+
+.divideSpace {
+  display: flex;
+  justify-content: space-between;
+}
+
+.actionButton {
+  margin-left: 990px !important;
+}
+
+.premiumTag {
+  position: absolute;
+  color: yellow;
+  top: 8px;
+  left: 97%;
+  padding: 5px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.5);
+  transform: translateX(-50%);
+}
+
+.eventDetails__header {
+  position: relative;
+}
